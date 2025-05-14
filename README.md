@@ -16,8 +16,8 @@ Este projeto explora os dados de filmes lançados pela Netflix na década de 199
 
 ## Visualizações
 
-Foram criados gráficos de histograma, linha e barras para visualizar tendências e distribuições nos dados.
+Foram criados gráficos para visualizar tendências e distribuições nos dados.
 
 ---
 
-Projeto feito como parte de um estudo de dados com Python 🐍📊
+Projeto feito como parte de um estudo de dados com Python 
