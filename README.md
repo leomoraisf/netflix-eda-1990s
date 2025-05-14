@@ -12,7 +12,6 @@ Este projeto explora os dados de filmes lançados pela Netflix na década de 199
 
 - Duração mais comum dos filmes dos anos 90
 - Número de filmes lançados por ano
-- Gêneros mais frequentes
 - Filmes de ação curtos (< 90 minutos)
 
 ## Visualizações
